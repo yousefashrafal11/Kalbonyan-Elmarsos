@@ -31,8 +31,8 @@
 
 ### Login-app (S10)
 
-- [Project-code](./https://login-app-s10-youssef.netlify.app/)
-- [Live Demo]()
+- [Project-code]()
+- [Live Demo](https://login-app-s10-youssef.netlify.app)
 
 ### Order-food App (S11)
 
