@@ -37,7 +37,7 @@
 ### Forkify
 
 - [Project-code](./Projects/Forkify)
-- [Live Demo](forkify-youssef-ashraf.netlify.app)
+- [Live Demo](https://forkify-youssef-ashraf.netlify.app/)
 
 ---
 
