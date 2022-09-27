@@ -21,13 +21,13 @@
 
 <br/>
 
-- [Section 6 Project Live Demo]()
-- [Section 7 Project Live Demo]()
+- [Section 6 Project Live Demo](https://section-6-youssef-ashraf.netlify.app/)
+- [Section 7 Project Live Demo](https://setion-7-youssef-ashraf.netlify.app/)
 
 ### Section 8-9 Project
 
 - [Project-code](./Projects/section-8-9-project)
-- [Live Demo]()
+- [Live Demo](https://section-9-youssef-ashraf.netlify.app/)
 
 ### Login-app (S10)
 
@@ -37,27 +37,27 @@
 ### Order-food App (S11)
 
 - [Project-code](./Projects/order-food-app/S11-project/)
-- [Live Demo]()
+- [Live Demo](https://order-food-youssef-ashraf.netlify.app)
 
 ### Section 12 Project
 
 - [Project-code](./Projects/S12-project)
-- [Live Demo]()
+- [Live Demo](https://s12-project-youssefashrf.netlify.app)
 
 ### Section 13 Project
 
 - [Project-code](./Projects/S13-project)
-- [Live Demo]()
+- [Live Demo](https://s13-project-youssef-ashraf.netlify.app/)
 
 ### movies app(S14)
 
 - [Project-code](./Projects/movies-app)
-- [Live Demo]()
+- [Live Demo](https://movies-app-youssef-ashraf.netlify.app/)
 
 ### Tasks app with firebase(S15)
 
 - [Project-code](./Projects/task-app-firbase/)
-- [Live Demo]()
+- [Live Demo](https://task-app-firbase-youssef-ashraf.netlify.app/)
 
 ### Form-app(S16)
 
@@ -129,6 +129,6 @@
 
 [Course-Link](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)<br>
 
-![Certificate](https://via.placeholder.com/468x300?text=Certificate+Here)
+![Certificate](https://www.udemy.com/certificate/UC-a24e6a80-af9e-42e7-b7c7-589a00866a83/)
 <br>
 Thank you [@abdelrhman-ahmed-kamal](https://github.com/Abdelrhman-ahmed-kamal) and [@mahmoud-farag](https://github.com/mahmoud-farag) for helping us to write this readme
