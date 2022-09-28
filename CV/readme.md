@@ -1,2 +1,3 @@
 # CV 
-![](https://github.com/yousefashrafal11/Kalbonyan-Elmarsos/blob/main/CV/Youssef%20Ashraf.pdf)
+
+![CV](https://drive.google.com/file/d/1cXrOGjR762iaVpiKqENgWN5ZjUBPzOMR/view)
