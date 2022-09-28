@@ -130,5 +130,5 @@
 [Course-Link](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)<br>
 
 ![Certificate](https://www.udemy.com/certificate/UC-a24e6a80-af9e-42e7-b7c7-589a00866a83/)
-<br>
+
 Thank you [@abdelrhman-ahmed-kamal](https://github.com/Abdelrhman-ahmed-kamal) and [@mahmoud-farag](https://github.com/mahmoud-farag) for helping us to write this readme
